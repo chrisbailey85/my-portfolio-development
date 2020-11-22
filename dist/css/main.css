@@ -472,6 +472,7 @@ footer {
 .footer-navbar {
   padding: 1rem 0;
   margin-left: 1rem;
+  z-index: 13;
 }
 
 footer p {
